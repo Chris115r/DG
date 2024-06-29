@@ -1,0 +1,24 @@
+{
+  "130156972174475264": [
+    "trade-1719655321690",
+    "trade-1719655491726"
+  ],
+  "trade-1719655321690": {
+    "id": "trade-1719655321690",
+    "userId": "130156972174475264",
+    "symbol": "SPX",
+    "amount": 1,
+    "takeProfit": null,
+    "stopLoss": null,
+    "status": "Open"
+  },
+  "trade-1719655491726": {
+    "id": "trade-1719655491726",
+    "userId": "130156972174475264",
+    "symbol": "GOLD",
+    "amount": 1,
+    "takeProfit": null,
+    "stopLoss": null,
+    "status": "Open"
+  }
+}
